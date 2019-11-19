@@ -7,67 +7,25 @@
       "publisher": "Andi",
       "year": 2015,
       "rating": 4.5,
-      "cover":"https://picsum.photos/200",
-      "review": [
-        {
-          "id": 313,
-          "name": "elik",
-          "comment": "bagus banget",
-          "rating": 4
-        },
-        {
-          "id": 312,
-          "name": "dian",
-          "comment": "bagus greget",
-          "rating": 5
-        }
-      ]
+      "cover": "https://picsum.photos/200"
     },
     {
       "id": 131,
       "title": "Startup untuk Pemula",
       "author": "Akbarul",
-      "publisher": "Gramedia",      
-      "cover":"https://picsum.photos/200",
+      "publisher": "Gramedia",
+      "cover": "https://picsum.photos/200",
       "year": 2014,
-      "rating": 4,
-      "review": [
-        {
-          "id": 3113,
-          "name": "bagus",
-          "comment": "bagus keren",
-          "rating": 4
-        },
-        {
-          "id": 412,
-          "name": "sastro",
-          "comment": "jempol deh! greget",
-          "rating": 5
-        }
-      ]
+      "rating": 4
     },
     {
       "id": 151,
       "title": "Beneran mau bikin startup?",
       "author": "Huda",
       "publisher": "Gramedia",
-      "cover":"https://picsum.photos/200",
+      "cover": "https://picsum.photos/200",
       "year": 2019,
-      "rating": 5,
-      "review": [
-        {
-          "id": 5113,
-          "name": "wardoyo",
-          "comment": "inspiratif",
-          "rating": 4
-        },
-        {
-          "id": 452,
-          "name": "agnes",
-          "comment": "gak nyesel beli mahal",
-          "rating": 5
-        }
-      ]
+      "rating": 5
     }
   ]
 }
