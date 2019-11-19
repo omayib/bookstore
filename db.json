@@ -7,6 +7,7 @@
       "publisher": "Andi",
       "year": 2015,
       "rating": 4.5,
+      "cover":"https://picsum.photos/200",
       "review": [
         {
           "id": 313,
@@ -26,7 +27,8 @@
       "id": 131,
       "title": "Startup untuk Pemula",
       "author": "Akbarul",
-      "publisher": "Gramedia",
+      "publisher": "Gramedia",      
+      "cover":"https://picsum.photos/200",
       "year": 2014,
       "rating": 4,
       "review": [
@@ -49,6 +51,7 @@
       "title": "Beneran mau bikin startup?",
       "author": "Huda",
       "publisher": "Gramedia",
+      "cover":"https://picsum.photos/200",
       "year": 2019,
       "rating": 5,
       "review": [
